@@ -1,2 +1,3 @@
 # hello_rails_app
-First Rails App
+
+First attempt at a rails app and git syncing.
